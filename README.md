@@ -1,8 +1,7 @@
 Evaluación Intermedia Modulo 1 👋
 Hola! Está es mi evaluación intermedia del primer modulo del curso de Adalab.
 
-Maquetación 💻
-General:
+Maquetación General💻:
 
 Usar una estructura adecuada de ficheros y carpetas para un proyecto web, y enlazar bien los distintos ficheros.
 Usar el control de versiones con ramas para manejar un proyecto de código.
