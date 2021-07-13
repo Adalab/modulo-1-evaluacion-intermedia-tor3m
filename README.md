@@ -1,6 +1,3 @@
-# modulo-1-evaluacion-intermedia-tor3m
-modulo-1-evaluacion-intermedia-tor3m created by GitHub Classroom
-
 Evaluación Intermedia Modulo 1 👋
 Hola! Está es mi evaluación intermedia del primer modulo del curso de Adalab.
 
