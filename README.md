@@ -1,6 +1,6 @@
-Modulo 1 
+Hola 👋
 
-Hola! Está es mi evaluación intermedia del primer modulo del curso de Adalab. 👋
+Está es mi evaluación intermedia del primer modulo del curso de Adalab. 
 
 Maquetación General💻:
 
