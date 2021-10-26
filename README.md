@@ -1,7 +1,7 @@
 
-Hola 👋
+<img align="center" src="https://user-images.githubusercontent.com/81690198/138969708-a23c6bdf-b33e-425e-a354-93368d607d3c.png"/>
 
-![adalab-web](https://user-images.githubusercontent.com/81690198/138969708-a23c6bdf-b33e-425e-a354-93368d607d3c.png)
+Hola 👋
 
 Está es mi evaluación intermedia del primer modulo del curso de Adalab. 
 
