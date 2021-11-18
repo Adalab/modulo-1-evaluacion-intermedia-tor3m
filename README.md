@@ -1,22 +1,48 @@
+Hi there 👋
 
 <img align="center" src="https://user-images.githubusercontent.com/81690198/138969708-a23c6bdf-b33e-425e-a354-93368d607d3c.png"/>
 
-Hola 👋
 
-Está es mi evaluación intermedia del primer modulo del curso de Adalab. 
+## Creating digital diversity
 
-## Maquetación General💻:
+Design a simplified version of the Home page of the Adalab website.
 
-Usar HTML y CSS.
-Usar una estructura adecuada de ficheros y carpetas para un proyecto web, y enlazar bien los distintos ficheros.
+## 💻 Technologies
+- VS Code
+- HTML
+- CSS
+
+## 🛠️ Installation Steps 
+
+How to run a project? 
+
+	Clone the repository
+      ```git clone https://github.com/tor3m/guess-a-random-number.git```
+
+## 🚀 Demo 
+
+https://tor3m.github.io/guess-a-random-number/
+
+## 👍 Feedback
+Any questions or suggestions? Please feel free to contact me at torres.m3lly@gmail.com 
+
+## 🍰 Contributing
+Please contribute using [GitHub](https://docs.github.com/en/get-started/quickstart/github-flow) Flow. Create a branch, add commits, and open a pull request.
 
 
-## Agradecimientos 🥰
+## 🦸 Autor 
+Contact me!
 
-A Iván, Dayana, Yanelis y Miguel por no dejarnos caer en este nuevo reto y enseñarnos a enfrentar todos los proyectos con determinación y con todos los recursos aprendidos.
+<p><a href="https://github.com/tor3m" target="blank"><img align="left" src=https://user-images.githubusercontent.com/81690198/142497840-2dc56a9d-1648-42bc-a091-9a8a66bce02f.jpeg alt="tor3m" height="30" width="40" /></a><a href="https://twitter.com/maribeltm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tor3m" height="30" width="40" /></a><a href="https://www.linkedin.com/in/tor3m/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tor3m/" height="30" width="40" /></a></p>
 
-"Enseñar no es transferir conocimiento, sino crear las posibilidades para su producción o su construcción. Quien enseña aprende y quien enseña aprende a aprender" Paulo Freire.
 
-## Dudas o sugerencias 📫
+## 🤝Acknowledgements 
 
-Cualquier duda o sugerencia es bienvenida, no dudes en contactar conmigo a tráves de las issues o de mi correo electrónico torres.m3lly@gmail.com. Gracias.
+Many thanks to the Adalab team 💞
+
+## 📝License 
+
+MIT
+
+
+
