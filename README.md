@@ -14,8 +14,9 @@ Design a simplified version of the Home page of the Adalab website.
 
 ## 🛠️ Installation Steps 
 
-	Clone the repository
-      ```git clone https://github.com/tor3m/creating-digital-diversity.git```
+	Clone the repository.
+	
+	`git clone https://github.com/tor3m/creating-digital-diversity.git`
 
 ## 🚀 Demo 
 
