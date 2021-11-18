@@ -17,7 +17,7 @@ Design a simplified version of the Home page of the Adalab website.
 How to run a project? 
 
 	Clone the repository
-      ```git clone https://github.com/tor3m/guess-a-random-number.git```
+      ```git clone https://github.com/tor3m/creating-digital-diversity.git```
 
 ## 🚀 Demo 
 
